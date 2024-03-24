@@ -10,12 +10,18 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@ant-design/icons": "^5.3.5",
+    "@emotion/react": "^11.11.4",
+    "ag-grid-react": "^31.2.0",
     "antd": "^5.15.3",
+    "country-flag-icons": "^1.5.10",
+    "dayjs": "^1.11.10",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.22.3"
   },
   "devDependencies": {
+    "@emotion/babel-plugin": "^11.11.0",
     "@types/react": "^18.2.66",
     "@types/react-dom": "^18.2.22",
     "@typescript-eslint/eslint-plugin": "^7.2.0",
