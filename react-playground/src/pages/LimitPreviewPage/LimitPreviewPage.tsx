@@ -47,7 +47,6 @@ export const LimitPreviewPage = () => {
                             <Space>
                                 {periods.map((period, index) => (
                                     <Button key={index} type={selectedPeriod ===  period.id ? 'primary' : 'default'} size="small" onClick={() => setSelectedPeriod(period.id)}>
-                                        {}
                                         {formatDate(period.startDate)} - {formatDate(period.endDate)}
                                     </Button>
                                 ))}

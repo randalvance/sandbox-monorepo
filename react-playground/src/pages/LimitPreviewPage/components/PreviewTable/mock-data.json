@@ -1,0 +1,262 @@
+{
+    "limitPeriods": [
+        {
+            "startDate": "2020-01-01",
+            "endDate": "2020-12-31",
+            "previews": [
+                {
+                    "riskGroupHeirarchy": [
+                        "NON_PRINCIPAL_RISK"
+                    ],
+                    "counterparties": {
+                        "DBS_SG": {
+                            "counterpartyName": "DBS GRP HLGS LTD (P)",
+                            "approvedLimits": {
+                                "proposedAssigned": 1000000,
+                                "proposedUnassigned": 2000000,
+                                "proposed": 3000000,
+                                "current": 2000000
+                            },
+                            "allocableLimits": {
+                                "proposedAssigned": 500000,
+                                "proposedUnassigned": 2000000,
+                                "proposed": 2500000,
+                                "current": 1500000
+                            },
+                            "change": {
+                                "assigned": 500000,
+                                "unassigned": 500000,
+                                "proposed": 1000000
+                            }
+                        },
+                        "DBSBL_SG": {
+                            "counterpartyName": "DBS BANK LTD,SP",
+                            "approvedLimits": {
+                                "proposedAssigned": 1000000,
+                                "proposedUnassigned": 2000000,
+                                "proposed": 3000000,
+                                "current": 2000000
+                            },
+                            "allocableLimits": {
+                                "proposedAssigned": 500000,
+                                "proposedUnassigned": 2000000,
+                                "proposed": 2500000,
+                                "current": 1500000
+                            },
+                            "change": {
+                                "assigned": 500000,
+                                "unassigned": 500000,
+                                "proposed": 1000000
+                            }
+                        },
+                        "DBSBL_TP": {
+                            "counterpartyName": "DBS BK (TAIWAN) LTD, TAI",
+                            "approvedLimits": {
+                                "proposedAssigned": 1000000,
+                                "proposedUnassigned": 2000000,
+                                "proposed": 3000000,
+                                "current": 2000000
+                            },
+                            "allocableLimits": {
+                                "proposedAssigned": 500000,
+                                "proposedUnassigned": 2000000,
+                                "proposed": 2500000,
+                                "current": 1500000
+                            },
+                            "change": {
+                                "assigned": 500000,
+                                "unassigned": 500000,
+                                "proposed": 1000000
+                            }
+                        }
+                    }
+                },
+                {
+                    "riskGroupHeirarchy": [
+                        "NON_PRINCIPAL_RISK",
+                        "CASH_SEC"
+                    ],
+                    "counterparties": {
+                        "DBS_SG": {
+                            "counterpartyName": "DBS GRP HLGS LTD (P)",
+                            "approvedLimits": {
+                                "proposedAssigned": 1000000,
+                                "proposedUnassigned": 2000000,
+                                "proposed": 3000000,
+                                "current": 2000000
+                            },
+                            "allocableLimits": {
+                                "proposedAssigned": 500000,
+                                "proposedUnassigned": 2000000,
+                                "proposed": 2500000,
+                                "current": 1500000
+                            },
+                            "change": {
+                                "assigned": 500000,
+                                "unassigned": 500000,
+                                "proposed": 1000000
+                            }
+                        },
+                        "DBSBL_SG": {
+                            "counterpartyName": "DBS BANK LTD,SP",
+                            "approvedLimits": {
+                                "proposedAssigned": 1000000,
+                                "proposedUnassigned": 2000000,
+                                "proposed": 3000000,
+                                "current": 2000000
+                            },
+                            "allocableLimits": {
+                                "proposedAssigned": 500000,
+                                "proposedUnassigned": 2000000,
+                                "proposed": 2500000,
+                                "current": 1500000
+                            },
+                            "change": {
+                                "assigned": 500000,
+                                "unassigned": 500000,
+                                "proposed": 1000000
+                            }
+                        },
+                        "DBSBL_TP": {
+                            "counterpartyName": "DBS BK (TAIWAN) LTD, TAI",
+                            "approvedLimits": {
+                                "proposedAssigned": 1000000,
+                                "proposedUnassigned": 2000000,
+                                "proposed": 3000000,
+                                "current": 2000000
+                            },
+                            "allocableLimits": {
+                                "proposedAssigned": 500000,
+                                "proposedUnassigned": 2000000,
+                                "proposed": 2500000,
+                                "current": 1500000
+                            },
+                            "change": {
+                                "assigned": 500000,
+                                "unassigned": 500000,
+                                "proposed": 1000000
+                            }
+                        }
+                    }
+                },
+                {
+                    "riskGroupHeirarchy": [
+                        "NON_PRINCIPAL_RISK",
+                        "CASH_SEC",
+                        "CASHEQ"
+                    ],
+                    "counterparties": {
+                        "DBS_SG": {
+                            "counterpartyName": "DBS GRP HLGS LTD (P)",
+                            "approvedLimits": {
+                                "proposedAssigned": 1000000,
+                                "proposedUnassigned": 2000000,
+                                "proposed": 3000000,
+                                "current": 2000000
+                            },
+                            "allocableLimits": {
+                                "proposedAssigned": 500000,
+                                "proposedUnassigned": 2000000,
+                                "proposed": 2500000,
+                                "current": 1500000
+                            },
+                            "change": {
+                                "assigned": 500000,
+                                "unassigned": 500000,
+                                "proposed": 1000000
+                            }
+                        },
+                        "DBSBL_SG": {
+                            "counterpartyName": "DBS BANK LTD,SP",
+                            "approvedLimits": {
+                                "proposedAssigned": 1000000,
+                                "proposedUnassigned": 2000000,
+                                "proposed": 3000000,
+                                "current": 2000000
+                            },
+                            "allocableLimits": {
+                                "proposedAssigned": 500000,
+                                "proposedUnassigned": 2000000,
+                                "proposed": 2500000,
+                                "current": 1500000
+                            },
+                            "change": {
+                                "assigned": 500000,
+                                "unassigned": 500000,
+                                "proposed": 1000000
+                            }
+                        },
+                        "DBSBL_TP": {
+                            "counterpartyName": "DBS BK (TAIWAN) LTD, TAI",
+                            "approvedLimits": {
+                                "proposedAssigned": 1000000,
+                                "proposedUnassigned": 2000000,
+                                "proposed": 3000000,
+                                "current": 2000000
+                            },
+                            "allocableLimits": {
+                                "proposedAssigned": 500000,
+                                "proposedUnassigned": 2000000,
+                                "proposed": 2500000,
+                                "current": 1500000
+                            },
+                            "change": {
+                                "assigned": 500000,
+                                "unassigned": 500000,
+                                "proposed": 1000000
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    ],
+    "columnDefinitions": [
+        {
+            "headerName": "DBS GRP HLGS LTD (P)",
+            "cpType": "UP",
+            "children": [
+                {
+                    "headerName": "Approved Limits",
+                    "children": [
+                        {
+                            "field": "counterparties.DBS_SG.approvedLimits.proposedAssigned",
+                            "headerName": "Proposed Assigned",
+                            "width": 180,
+                            "filter": "agTextColumnFilter"
+                        },
+                        {
+                            "field": "counterparties.DBS_SG.approvedLimits.proposedUnassigned",
+                            "headerName": "Proposed Unassigned",
+                            "width": 180,
+                            "filter": "agTextColumnFilter"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "headerName": "DBS BANK LTD,SP",
+            "cpType": "LE",
+            "children": [
+                {
+                    "headerName": "Approved Limits",
+                    "children": [
+                        {
+                            "field": "counterparties.DBSBL_SG.approvedLimits.proposedAssigned",
+                            "headerName": "Proposed Assigned",
+                            "width": 180,
+                            "filter": "agTextColumnFilter"
+                        },
+                        {
+                            "field": "counterparties.DBSBL_SG.approvedLimits.proposedUnassigned",
+                            "headerName": "Proposed Unassigned",
+                            "width": 180,
+                            "filter": "agTextColumnFilter"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

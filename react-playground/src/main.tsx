@@ -1,6 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import App from './App.tsx'
+import 'ag-grid-enterprise'
 import './index.css'
 import 'antd/dist/reset.css'
 import "ag-grid-community/styles/ag-grid.css"; // Mandatory CSS required by the grid
